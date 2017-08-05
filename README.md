@@ -3,23 +3,20 @@
 [![Build Status](https://travis-ci.org/meolu/walle-web.svg?branch=master)](http://shields.io/)
 [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)]()
 
+[官网主页](https://www.walle-web.io) | [文档手册](https://www.walle-web.io/docs) | [English Readme](https://github.com/meolu/walle-web/blob/master/README.md).
+| [emoji指南](https://github.com/liuchengxu/git-commit-emoji-cn/blob/master/README.md)
+| [git-handbook](https://github.com/AlfredTheBest/git-handbook/edit/master/README.md)  
+
 ![image-1](img/image-1.png)  
 ![gitmoji](img/gitmoji-l.png)
 
-[官网主页](https://www.walle-web.io) | [文档手册](https://www.walle-web.io/docs) | [English Readme](https://github.com/meolu/walle-web/blob/master/README.md).
-
 ### git local repository 
 ___
-
-- the fist change 001 
-- test status
-- git log
-
+> the fist change 001  
 
 
 ### git created juest local
 ___
-
 - Here are a few basic commands for creatimg and viewimg files git code.
 
 
