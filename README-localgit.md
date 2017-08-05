@@ -73,7 +73,6 @@ rm test.txt
 
 
 simply commit 001 ./gitku/localgit
+
 git push  --  git pull
 
-simply commit 002 ./gitku/lerangit/lo
-simply commit 002 ./gitku/lerangit/lo
